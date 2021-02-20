@@ -1,55 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ankit Patel</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">Hi There! 👋, I'm Ankit Patel</h1>
+<h3 align="center">A passionate Full Stack developer from India. Who Loves to utilize his skills and knowledge to solve some real world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imavipatel&label=Profile%20views&color=0e75b6&style=flat" alt="imavipatel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imavipatel" alt="imavipatel" /></a> </p>
+-  🔭 I’m currently developing a mobile application in [React Native](https://reactnative.dev/) independently.
 
-<p align="left"> <a href="https://twitter.com/imavipatel" target="blank"><img src="https://img.shields.io/twitter/follow/imavipatel?logo=twitter&style=for-the-badge" alt="imavipatel" /></a> </p>
+-  🌱 I’m currently learning and growing my skillset in data structures and algorithms and trying to improve my expertise in **Python** and **React Js.**
 
--  🔭 I’m currently working on [SportGuruji](https://sportguruji.com/)
+-  👯 I’m looking to collaborate on **Javascript**, **React Native** or **Python** based projects.
 
--  🌱 I’m currently learning **Python, React**
+-  💬 Ask me about **Anything**
 
--  👯 I’m looking to collaborate on [SportGuruji](https://sportguruji.com/)
+-  ⚡ Fun fact => After six month of my graduation i was able to write my first **Hello World** program successfully.
 
--  🤝 I’m looking for help with [SportGuruji](https://sportguruji.com/)
+### 🛠 &nbsp;Tech Stack
 
--  👨‍💻 All of my projects are available at [https://github.com/imavipatel](https://github.com/imavipatel)
+Technologies that I've been learning and I've picked up along my programming journey.
 
--  📝 I regularly write articles on [https://medium.com/@imavipatel](https://medium.com/@imavipatel)
+### Languages
 
--  💬 Ask me about **React Native, Python, Machine Learning**
+[![Python](https://img.shields.io/badge/-Python-05122A?&logo=python)](https://www.python.org/)&nbsp;
+[![Java](https://img.shields.io/badge/-Java-05122A?&logo=Java&logoColor=007396)](https://www.java.com/en/)&nbsp;
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=ddc508)](https://www.javascript.com/)
 
--  📫 How to reach me **imavipatel@gmail.com**
+#### 🌐 Frontend <br />
 
--  📄 Know about my experiences [https://github.com/imavipatel](https://github.com/imavipatel)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
--  ⚡ Fun fact **Let's talk to understand better**
+#### ✨ Backend <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://dev.to/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://twitter.com/imavipatel" target="blank"><img align="center" src="https://s2.gifyu.com/images/twitter64b9933c9b703d32.png" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://codesandbox.com/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://kaggle.com/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://fb.com/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://instagram.com/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://medium.com/@imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@imavipatel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@imavipatel" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="imavipatel" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+[![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)](https://www.postgresql.org/)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+#### 🛠 OS & IDE & Tools <br />
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 # Blog posts
 
@@ -57,10 +59,19 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/imavipatel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imavipatel" /></a></p>
+<p><a href="https://www.buymeacoffee.com/imavipatel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="imavipatel" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imavipatel&show_icons=true&locale=en&layout=compact" alt="imavipatel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imavipatel&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" alt="imavipatel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imavipatel&show_icons=true&locale=en" alt="imavipatel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imavipatel&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="imavipatel"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imavipatel&" alt="imavipatel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imavipatel&theme=highcontrast" alt="imavipatel" /></p>
+<div align="center">
+
+<h3 align="left">Let'Connect:</h3>
+
+<a href="https://www.linkedin.com/in/imavipatel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/imavipatel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/imavipatel" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/imavipatel" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
