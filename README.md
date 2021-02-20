@@ -68,7 +68,8 @@ Technologies that I've been learning and I've picked up along my programming jou
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imavipatel&theme=highcontrast" alt="imavipatel" /></p>
 <div align="center">
 
-<h3 align="left">Let'Connect:</h3>
+
+## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/imavipatel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/imavipatel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
