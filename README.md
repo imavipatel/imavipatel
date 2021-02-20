@@ -7,7 +7,7 @@
 
 -  🌱 I’m currently learning and growing my skillset in data structures and algorithms and trying to improve my expertise in **Python** and **React Js.**
 
--  👯 I’m looking to collaborate on **Javascript**, **React Native** or **Python** based projects.
+-  🤝 I’m looking to collaborate on **Javascript**, **React Native** or **Python** based projects.
 
 -  💬 Ask me about **Anything**
 
@@ -68,7 +68,6 @@ Technologies that I've been learning and I've picked up along my programming jou
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imavipatel&theme=highcontrast" alt="imavipatel" /></p>
 <div align="center">
 
-
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/imavipatel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -82,3 +81,4 @@ Technologies that I've been learning and I've picked up along my programming jou
 <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
 <a href="https://stackoverflow.com/users/10200838/imavipatel" alt="StackOverflow"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
 <a href="https://www.pinterest.ca/imavipatel"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.youtube.com/imavipatel"><img src="https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white"/></a>
