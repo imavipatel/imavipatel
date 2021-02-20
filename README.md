@@ -81,4 +81,4 @@ Technologies that I've been learning and I've picked up along my programming jou
 <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
 <a href="https://stackoverflow.com/users/10200838/imavipatel" alt="StackOverflow"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
 <a href="https://www.pinterest.ca/imavipatel"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.youtube.com/imavipatel"><img src="https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCi9xV4vbTJYUYgCfYzv-VeA"><img src="https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white"/></a>
