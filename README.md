@@ -76,7 +76,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 <a href="https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/imavipatel" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://twitter.com/imavipatel"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white"></a>
-<a href="https://medium.com/@dineshkarthik.r"><img alt="Blog" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white"></a>
+<a href="https://medium.com/@imavipatel"><img alt="Blog" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white"></a>
 <a href="https://hackerrank.com/imavipatel" alt="HackerRank">
 <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
 <a href="https://stackoverflow.com/users/10200838/imavipatel" alt="StackOverflow"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
