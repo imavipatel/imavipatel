@@ -15,7 +15,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-Technologies that I've been working and learning along my programming journey.
+Technologies that I've been learning and I've picked up along my programming journey.
 
 ### Languages
 
@@ -61,9 +61,9 @@ Technologies that I've been working and learning along my programming journey.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imavipatel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="imavipatel" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imavipatel&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" alt="imavipatel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imavipatel&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=7&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" alt="imavipatel" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imavipatel&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="imavipatel"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imavipatel&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="imavipatel"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imavipatel&theme=highcontrast" alt="imavipatel" /></p>
 <div align="center">
@@ -75,3 +75,9 @@ Technologies that I've been working and learning along my programming journey.
 <a href="https://www.facebook.com/imavipatel" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/imavipatel" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://twitter.com/imavipatel"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white"></a>
+<a href="https://medium.com/@dineshkarthik.r"><img alt="Blog" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white"></a>
+<a href="https://hackerrank.com/imavipatel" alt="HackerRank">
+<img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
+<a href="https://stackoverflow.com/users/10200838/imavipatel" alt="StackOverflow"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://www.pinterest.ca/imavipatel"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
