@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://codepen.io/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="imavipatel" height="30" width="40" /></a>
 <a href="https://dev.to/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="imavipatel" height="30" width="40" /></a>
-<a href="https://twitter.com/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imavipatel" height="30" width="40" /></a>
+<a href="https://twitter.com/imavipatel" target="blank"><img align="center" src="https://s2.gifyu.com/images/twitter64b9933c9b703d32.png" alt="imavipatel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imavipatel" height="30" width="40" /></a>
 <a href="https://codesandbox.com/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="imavipatel" height="30" width="40" /></a>
 <a href="https://kaggle.com/imavipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="imavipatel" height="30" width="40" /></a>
@@ -57,9 +57,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/imavipatel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imavipatel" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/imavipatel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imavipatel" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imavipatel&show_icons=true&locale=en&layout=compact" alt="imavipatel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imavipatel&show_icons=true&locale=en&layout=compact" alt="imavipatel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imavipatel&show_icons=true&locale=en" alt="imavipatel" /></p>
 
