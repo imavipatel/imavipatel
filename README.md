@@ -56,7 +56,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imavipatel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="imavipatel" /></a></p>
 
