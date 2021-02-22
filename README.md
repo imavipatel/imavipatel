@@ -15,7 +15,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-Technologies that I've been learning and I've picked up along my programming journey.
+Technologies that I've been learning and I've picked up along with my programming journey.
 
 ### Languages
 
