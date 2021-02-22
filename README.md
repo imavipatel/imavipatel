@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! <img src="https://github.com/imavipatel/imavipatel/blob/main/Gif/hi.gif" width="35px"> I'm Ankit Patel</h1>
+<h1 align="center">Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ankit Patel</h1>
 <h3 align="center">A passionate full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> from India. Who Loves to utilize his skills and knowledge to solve some real world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imavipatel&label=Profile%20views&color=0e75b6&style=flat" alt="imavipatel" /> </p>
