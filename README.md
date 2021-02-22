@@ -89,6 +89,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 [![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1)
 <br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2eurp0urtyq353b43zl9ovv3o&cover_image=false&theme=default)](https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1)
+<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2eurp0urtyq353b43zl9ovv3o&cover_image=true&theme=novatorem)](https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
