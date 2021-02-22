@@ -11,7 +11,7 @@
 
 -  💬 Ask me about **Anything**
 
--  ⚡ Fun fact => After six month of my graduation i was able to write my first **Hello World** program successfully.
+-  ⚡ Fun fact => After six month of my graduation i was able to write my first **Hello world!** program successfully.
 
 ### 🛠 &nbsp;Tech Stack
 
