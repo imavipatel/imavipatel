@@ -56,7 +56,6 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
