@@ -56,42 +56,79 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+
+-  [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+-  [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+-  [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+-  [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+-  [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
+
 # 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
-- [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
-- [Top Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 2)](https://www.youtube.com/watch?v=V2HUBo0P_BA)
-- [Build a DISCORD Slash Command BOT with Cloudflare Workers!! Deploy FREE!](https://www.youtube.com/watch?v=xRt9PwphmY8)
-- [Try THIS GitHub 1 Second Shortcut Trick | VS Code in Browser!! (github1s)](https://www.youtube.com/watch?v=AXXwgJJVeiQ)
-<!-- YOUTUBE:END -->
+
+-  [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
+-  [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
+-  [Top Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 2)](https://www.youtube.com/watch?v=V2HUBo0P_BA)
+-  [Build a DISCORD Slash Command BOT with Cloudflare Workers!! Deploy FREE!](https://www.youtube.com/watch?v=xRt9PwphmY8)
+-  [Try THIS GitHub 1 Second Shortcut Trick | VS Code in Browser!! (github1s)](https://www.youtube.com/watch?v=AXXwgJJVeiQ)
+   <!-- YOUTUBE:END -->
+
+<table><tr><td valign="top" width="50%">
+
+### My Digital Garden 🌱
+
+You can find my blogs at my [Website](https://ayushirawat.com).
+
+<!-- BLOG-POST-LIST:START -->
+
+-  [Draw Indian Flag using Python](https://ayushirawat.com/draw-indian-flag-using-python)
+-  [Make 2021 a Productive Year | 12 Must-watch Life-Changing Hacks!](https://ayushirawat.com/make-2021-a-productive-year-or-12-must-watch-life-changing-hacks)
+-  [Generate Wiki Summary using Python](https://ayushirawat.com/generate-wiki-summary-using-python)
+-  [Turn any Image to ASCII Art using Python](https://ayushirawat.com/turn-any-image-to-ascii-art-using-python)
+-  [Automate WhatsApp using Python](https://ayushirawat.com/automate-whatsapp-using-python)
+   <!-- BLOG-POST-LIST:END -->
+   </td>
+   <td valign="top" width="45%">
+
+### The Developer Dictionary 🌱
+
+Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
+
+<!-- YOUTUBE:START -->
+
+-  [Draw Indian Flag ](https://www.youtube.com/watch?v=4gvmxgkeAjo)
+-  [Should I put Hobbies on my Resume? And How? ](https://www.youtube.com/watch?v=S5mmEYlUOyM)
+-  [Make 2021 a Productive Year ](https://www.youtube.com/watch?v=g8EMHS9Wtts)
+-  [Generate Wikipedia Summary ](https://www.youtube.com/watch?v=uCbyOU_oEVQ)
+-  [Turn any image to ASCII Art ](https://www.youtube.com/watch?v=AOa4T_xW9cc)
+   <!-- YOUTUBE:END -->
+   </td>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imavipatel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="imavipatel" /></a></p>
 
+<details>
+<summary>📊 Github Stats</summary>
+
+<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imavipatel&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=7&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" alt="imavipatel" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imavipatel&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="imavipatel"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imavipatel&theme=highcontrast" alt="imavipatel" /></p>
+
+</details>
+
 <div align="center">
 <!-- <i>Random dev joke for you!</i> -->
 <i align="center">Random dev joke for you!</i>
 </br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
-### Now Playing 🎧
-
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1)
-<br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2eurp0urtyq353b43zl9ovv3o&cover_image=false&theme=default)](https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1)
 <br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2eurp0urtyq353b43zl9ovv3o&cover_image=true&theme=novatorem)](https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
