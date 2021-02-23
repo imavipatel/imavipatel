@@ -55,7 +55,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <table><tr><td valign="top" width="50%">
 
-# 📕 Latest Blog Posts
+# 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
@@ -67,7 +67,7 @@ Technologies that I've been learning and I've picked up along with my programmin
       </td>
       <td valign="top" width="45%">
 
-# 📺 Latest YouTube Videos
+# 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
 
