@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 3)](https://www.youtube.com/watch?v=pQyR71kNTo8)
 - [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
 - [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
-- [Top Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 2)](https://www.youtube.com/watch?v=V2HUBo0P_BA)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
