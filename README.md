@@ -69,7 +69,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <!-- YOUTUBE:START -->
 - [Top VS Code Updates | v1.54 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=Qj6Jya9APiU)
-- [🤯 42 Amazing Web Dev Videos! #WomensHistoryMonth (STACKr News 2021, Issue #9)](https://www.youtube.com/watch?v=OSLyP8L0s_k)
+- [[#9] 🤯 42 Amazing Web Dev Videos! #WomensHistoryMonth (STACKr News 2021, Issue #9)](https://www.youtube.com/watch?v=OSLyP8L0s_k)
 - [Brackets is Dead | Switch to VS Code (Visual Studio Code Setup 2021)](https://www.youtube.com/watch?v=MQxLbUX5BFA)
 <!-- YOUTUBE:END -->
 
