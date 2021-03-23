@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
 - [10 Things I Wish I Knew Before I Started Programming](https://www.youtube.com/watch?v=x4gu6JGwKAI)
 - [[#10] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #10)](https://www.youtube.com/watch?v=xDVgpW1tig4)
-- [Top VS Code Updates | v1.54 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=Qj6Jya9APiU)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
