@@ -11,7 +11,7 @@
 
 -  💬 Ask me about anything **related to life.**
 
--  📫 Join my [Telegram Channel](https://t.me/pythonandreactnative) for discussing about **Python** and **React Native**. This channel is all about **Python** and **React Native** < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s /> who loves to help other **Fellow Developers**.
+-  📫 Join the [React Native Python dev](https://t.me/reactnativepythondev) group for discussing about **Python** and **React Native**. This channel is all about **Python** and **React Native** < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s /> who loves to help other **Fellow Developers**.
 
 -  ⚡ Fun fact => After six month of my graduation i was able to write my first **Hello world!** program successfully.
 
