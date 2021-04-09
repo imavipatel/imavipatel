@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
 - [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
 - [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
-- [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
