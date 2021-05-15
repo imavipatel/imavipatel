@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Can You Code Without A Keyboard?? VS Code Voice ONLY Coding Challenge!](https://www.youtube.com/watch?v=2kJRuAmZgIA)
 - [Top VS Code Updates | v1.56 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=t4_h9DBF2hE)
 - [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
-- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
