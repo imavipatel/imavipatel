@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create an Application Backend in Clicks with the Amplify Admin UI | Interview :: Ali Spittel (2021)](https://www.youtube.com/watch?v=SvPJMwbR8ac)
 - [The Third Age of JavaScript | Interview :: Swyx (2021)](https://www.youtube.com/watch?v=Nan1hqQ90_4)
 - [Can You Code Without A Keyboard?? VS Code Voice ONLY Coding Challenge!](https://www.youtube.com/watch?v=2kJRuAmZgIA)
-- [Top VS Code Updates | v1.56 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=t4_h9DBF2hE)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
