@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build Fullstack Apps in Record Time with Blitz.js | Interview :: Brandon Bayer (2021)](https://www.youtube.com/watch?v=S9qqImLjJFY)
 - [Create an Application Backend in Clicks with the Amplify Admin UI | Interview :: Ali Spittel (2021)](https://www.youtube.com/watch?v=SvPJMwbR8ac)
 - [The Third Age of JavaScript | Interview :: Swyx (2021)](https://www.youtube.com/watch?v=Nan1hqQ90_4)
-- [Can You Code Without A Keyboard?? VS Code Voice ONLY Coding Challenge!](https://www.youtube.com/watch?v=2kJRuAmZgIA)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
