@@ -69,8 +69,8 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <!-- YOUTUBE:START -->
 - [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
-- [How To Blog #short](https://www.youtube.com/watch?v=CGcv1wuwNG0)
-- [Keyword Research #short](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
+- [How To Blog #shorts](https://www.youtube.com/watch?v=CGcv1wuwNG0)
+- [Keyword Research #shorts](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
