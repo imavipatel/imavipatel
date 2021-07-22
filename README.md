@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Shorts - Issue 3 - MongoDB in 100 Seconds](https://www.youtube.com/watch?v=X3msV_VwLqA)
 - [STACKr News Shorts - Issue 3 - How to Prepare for a Coding Bootcamp](https://www.youtube.com/watch?v=dBXbNgaM1Z4)
 - [STACKr News Shorts - Issue 3 - How I plan out my day as a Software Developer](https://www.youtube.com/watch?v=JbYSNA5MqM0)
-- [STACKr News Shorts - Issue 3 - You're Doing React Hooks Wrong, Probably](https://www.youtube.com/watch?v=pV_-EwSe6j8)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
