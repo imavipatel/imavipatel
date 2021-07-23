@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Shorts - Issue 3 - Perf as a Job, Frontend Being Consumed, and How Much to Bill Clients](https://www.youtube.com/watch?v=STtPjRrF9s0)
 - [STACKr News Shorts - Issue 3 - Web Dev Highlights](https://www.youtube.com/watch?v=MnqIcetrBTI)
 - [STACKr News Shorts - Issue 3 - Kubernetes Backup and Restore made easy!](https://www.youtube.com/watch?v=M9M0mVWAft8)
-- [STACKr News Shorts - Issue 3 - YouTube thumbnail fetcher with React & TypeScript](https://www.youtube.com/watch?v=_fx3nfYIeXU)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
