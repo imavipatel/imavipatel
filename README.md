@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Shorts - Issue 4 - Web Dev Highlights](https://www.youtube.com/watch?v=kJIxWO9Vt_w)
 - [STACKr News Shorts - Issue 4 - Auth0 Rap Video!](https://www.youtube.com/watch?v=JZ8Bq-IuUdo)
 - [Auth0 Rap Video 🤯, Build A Portfolio, and Giving Away Money 💸 // STACKr News Weekly - Issue 4](https://www.youtube.com/watch?v=5b9KZRPOwP0)
-- [STACKr News Shorts - Issue 3 - MongoDB .live Event Recordings](https://www.youtube.com/watch?v=mogH5SfyzLQ)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
