@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
 - [⭐ BONUS: STACKr News Shorts - Tailwind Just in Time Tutorial](https://www.youtube.com/watch?v=CGVWCcwVrfU)
 - [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/watch?v=RezYIIJYZ6Y)
-- [4 Steps to Make $Millions with an API 💰, Don't Miss THIS!](https://www.youtube.com/watch?v=GpYboktUnTY)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
