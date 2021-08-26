@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
 - [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
 - [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
