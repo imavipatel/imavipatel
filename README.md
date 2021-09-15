@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SQL vs NoSQL](https://www.youtube.com/watch?v=sG28-D5o9tg)
 - [Got Scammed 😡, Top Paid Dev Jobs 💲, & How to Network for Success 📩 // STACKr News Weekly](https://www.youtube.com/watch?v=xQxnLiHz2-A)
 - [Top VS Code Updates | v1.60 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=cPxiA9enjz0)
-- [7 Days to Learn React 🤯, 30 Days to Build a SaaS 💪, 40 Min Full Stack App 🦸‍♀️ // STACKr News Weekly](https://www.youtube.com/watch?v=bsJ7bf1hx74)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
