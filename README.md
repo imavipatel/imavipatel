@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Weekly: Hacktoberfest 🐱‍💻, Web Scrapping 🔎, & MongoDB 💪](https://www.youtube.com/watch?v=T9JmMNEgpZE)
 - [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw)
 - [Beyond State Management with Pinia // Eduardo Morote Vue.js Live Conference Interview](https://www.youtube.com/watch?v=BNGAvhCISOw)
-- [Local State & Server Cache: Finding a Balance // Natalia Tepluhina Vue.js Live Conference Interview](https://www.youtube.com/watch?v=mtN2bJ60B-4)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
