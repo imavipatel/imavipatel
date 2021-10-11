@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
 - [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
 - [STACKr News Weekly: Hacktoberfest 🐱‍💻, Web Scrapping 🔎, & MongoDB 💪](https://www.youtube.com/watch?v=T9JmMNEgpZE)
-- [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
