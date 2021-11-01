@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [API Crash Course - Integrate, Build, & Sell an API $$$ (EASY!)](https://www.youtube.com/watch?v=FMJwaA2WMjc)
 - [#TeamSeas - Let's Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
 - [Secret Mr. Beast Video Collab!!](https://www.youtube.com/watch?v=0sxnQCfJL2g)
-- [STACKr News Weekly: Make $10k on Etsy 💲, Build Candy Crush in React 🍭, Use VS Code on ANY Device! 🤯](https://www.youtube.com/watch?v=JOWeVhSz_bY)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
