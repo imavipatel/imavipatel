@@ -69,8 +69,8 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <!-- YOUTUBE:START -->
 - [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
-- [API Crash Course - Integrate, Build, & Sell an API $$$ (EASY!)](https://www.youtube.com/watch?v=FMJwaA2WMjc)
-- [#TeamSeas - Let's Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
+- [API Crash Course - Integrate, Build, &amp; Sell an API $$$ &lpar;EASY!&rpar;](https://www.youtube.com/watch?v=FMJwaA2WMjc)
+- [#TeamSeas - Let&#39;s Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
