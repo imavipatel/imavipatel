@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT In Under 1 Hour Without Coding Knowledge](https://www.youtube.com/watch?v=AaCgydeMu64)
 - [STACKr News Weekly: Developer Trends 2022 🔥, Studio Tour 📷, 5 Steps to become a Programmer 5️⃣](https://www.youtube.com/watch?v=Pqa55L8Yjvw)
 - [My ULTIMATE 2021 Studio Tour!! - How I Make My Videos - Welcome to STACKr Studio!!](https://www.youtube.com/watch?v=fSsfuyRgCZI)
-- [How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT In Under 1 Hour Without Coding Knowledge](https://www.youtube.com/watch?v=AaCgydeMu64)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
