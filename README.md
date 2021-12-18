@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
 - [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
 - [Top VS Code Updates | v1.63 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=q4F9OSon2n0)
-- [ZERO Gas Purchases on OpenSea!! How to buy NFTs on Polygon](https://www.youtube.com/watch?v=peJ9zgNhyh0)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
