@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to create an NFT website landing page &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;](https://www.youtube.com/watch?v=WZQSVv67NBc)
 - [STACKr News Weekly: Crypto, Tech Jobs, and Remix](https://www.youtube.com/watch?v=UUjIUNMlFno)
 - [AngularJS is Dead](https://www.youtube.com/watch?v=y4I_ITZIpxM)
-- [STACKr News Weekly: Web Dev 2022, JS One-Liners, 3d JS](https://www.youtube.com/watch?v=f0O09xYo77A)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
