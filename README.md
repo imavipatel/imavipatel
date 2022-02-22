@@ -5,15 +5,15 @@
 
 -  🔭 I’m currently developing a mobile application in [React Native](https://reactnative.dev/) independently.
 
--  🌱 I’m currently learning and growing my skillset in data structures and algorithms and trying to improve my expertise in **Python** and **React Js.**
+-  🌱 I’m currently learning and growing my skillset in data structures and algorithms and trying to improve my expertise in **Python** and **React Native**
 
 -  🤝 I’m looking to collaborate on **Javascript**, **React Native** or **Python** based projects.
 
--  💬 Ask me about anything **related to life.**
+-  💬 Ask me about anything **related to love, life, code.**
 
--  📫 Join the [React Native Python dev](https://t.me/iamnoobcoder) group for discussing about **Python** and **React Native**. This channel is all about **Python** and **React Native** < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s /> who loves to help other **Fellow Developers**.
+-  📫 Join the [React Native Talks](https://t.me/reactnativetalks) group for discussing about **React Native**. This group is all about **React Native** < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s /> who loves to help other **Fellow Developers**.
 
--  ⚡ Fun fact => After six month of my graduation i was able to write my first **Hello world!** program successfully.
+-  ⚡ Fun fact => In my free time I love to watch movies or travelling.
 
 ### 🛠 &nbsp;Tech Stack
 
