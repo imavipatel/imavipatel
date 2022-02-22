@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Weekly: BIG Next.js Update!, ERC Contracts Explained, Kubernetes What??](https://www.youtube.com/watch?v=PaSCBCWtZnE)
 - [ERC-20 vs ERC-721 vs ERC-1155 | &lpar;Non&rpar;Fungible Token Contracts Explained | FT vs NFT](https://www.youtube.com/watch?v=_rxHurlszUE)
 - [STACKr News Weekly: Coding WORDLE, Markdown Crash Course, Build Frogger with JavaScript](https://www.youtube.com/watch?v=ZX6J28qJCrw)
-- [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
