@@ -69,7 +69,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <!-- YOUTUBE:START -->
 - [🔴 DevOps.js Conference 2022 LIVE](https://www.youtube.com/watch?v=_WS_8Pi1WQs)
-- [EASY Minting dApp with WHITELISTING - Entire Process!! Launch an Entire NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
+- [EASY Minting Site w/ WHITELISTING &lpar;dapp&rpar; - Entire Process! Launch an Entire NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
 - [UPDATED: Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - PFP Generator](https://www.youtube.com/watch?v=quGdJweadFM)
 <!-- YOUTUBE:END -->
 
