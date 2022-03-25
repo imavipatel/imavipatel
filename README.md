@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
 - [BEST Minting Site w/ Waitlist/Whitelist - Entire Process! Launch an Entire NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
 - [UPDATED: Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - PFP Generator](https://www.youtube.com/watch?v=quGdJweadFM)
-- [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
