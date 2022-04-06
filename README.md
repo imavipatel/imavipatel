@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
 - [🔴 JS GameDev Summit 2022 LIVE | JavaScript + Game Development = 😍](https://www.youtube.com/watch?v=bG5Lk1MLbDk)
 - [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
-- [BEST Minting Site w/ Waitlist/Whitelist - Entire Process! Launch an Entire NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
