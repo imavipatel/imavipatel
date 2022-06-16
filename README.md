@@ -69,8 +69,8 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <!-- YOUTUBE:START -->
 - [🔴 React Summit 2022 LIVE](https://www.youtube.com/watch?v=un4Ka7S9Kz0)
-- [🔴 JSNation 2022 LIVE](https://www.youtube.com/watch?v=I96NaUIFTog)
 - [Withdraw Funds from ANY NFT Contract!!](https://www.youtube.com/watch?v=v-udnslmqIE)
+- [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
