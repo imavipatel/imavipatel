@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
 - [Web3 101: What is an ERC721/a Smart Contract?](https://www.youtube.com/watch?v=_XAxn0glwAI)
 - [Web3 101: What Is A Blockchain?](https://www.youtube.com/watch?v=145m3Ev4zbo)
-- [LOOK Stack Overflow Developer Survey 2022 Results Are In!!](https://www.youtube.com/watch?v=KnlXUkdJ6j8)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
