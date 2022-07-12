@@ -93,9 +93,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 <i align="center">Random dev joke for you!</i>
 </br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-<!-- 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2eurp0urtyq353b43zl9ovv3o&cover_image=false&theme=default)](https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1)
-<br/> -->
+<br/>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
