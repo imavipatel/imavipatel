@@ -97,9 +97,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2eurp0urtyq353b43zl9ovv3o&cover_image=false&theme=default)](https://open.spotify.com/user/2eurp0urtyq353b43zl9ovv3o?si=t8kkHVBLRGuiJJm0Rpkk7g&nd=1) -->
-
 <br/>
 ## 🤝🏻 &nbsp;Connect with Me
+
 
 <a href="https://www.linkedin.com/in/imavipatel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/imavipatel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
