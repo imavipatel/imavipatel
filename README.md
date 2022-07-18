@@ -11,7 +11,7 @@
 
 -  💬 Feel free to ask me anything. I would love to **Help** you.
 
--  📫 Join the [React Native Talks](https://t.me/reactnativetalks) group for discussing about **React Native**. This group is all about **React Native** < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s /> who loves to help other **Fellow Developers**.
+-  📫 Join the [React Native Meetup](https://t.me/ReactNativeDelhiNcrMeetup) group for discussing about **React Native**. This group is all about **React Native** < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s /> who loves to help other **Fellow Developers**.
 
 -  ⚡ Fun fact => In my free time I will be coding, watching movies or travelling.
 
