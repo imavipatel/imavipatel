@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
 - [What is JavaScript? Click to watch more 👇](https://www.youtube.com/watch?v=asyHJSlYwX0)
 - [Free Up Disk Space NOW!! No More node_modules Folders Taking Up Space!!](https://www.youtube.com/watch?v=OuuO6EM7DL0)
-- [Top VS Code Updates | v1.69 Released!! | Tips &amp; Tricks 2022 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=2ncAmRBCN1w)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
