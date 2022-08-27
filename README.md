@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
 - [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
 - [What is JavaScript? Click to watch more 👇](https://www.youtube.com/watch?v=asyHJSlYwX0)
-- [Free Up Disk Space NOW!! No More node_modules Folders Taking Up Space!!](https://www.youtube.com/watch?v=OuuO6EM7DL0)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
