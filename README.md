@@ -60,9 +60,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
-- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest YouTube Videos
