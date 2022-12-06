@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 GraphQL Galaxy 2022 | The Biggest GraphQL Conference in the Cloud](https://www.youtube.com/watch?v=3TqrCeUtuyA)
 - [Coinbase Hacked! $16,308 Stolen - Don’t let this happen to you!!](https://www.youtube.com/watch?v=1GJkuRa1PjM)
 - [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
-- [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
