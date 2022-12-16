@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VS Code: Put your Sidebar on the Right &lpar;correct&rpar; Side 😅](https://www.youtube.com/watch?v=xCn6ifDmlk8)
 - [Become a VS Code SuperHero Today - Trailer 2.0](https://www.youtube.com/watch?v=STZgSUtu004)
 - [Go from Visual Studio Code Noob to Pro! Become a VS Code SuperHero Today!](https://www.youtube.com/watch?v=4d_tbl3KqMM)
-- [VS Code: Organize Imports](https://www.youtube.com/watch?v=o3FskZW1n2U)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
