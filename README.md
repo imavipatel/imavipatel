@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is ChatGPT? Can it Help You? It built a To-Do App.. Sorta 🤔](https://www.youtube.com/watch?v=Gz0qvqBoA4I)
 - [VS Code: Put your Sidebar on the Right &lpar;correct&rpar; Side 😅](https://www.youtube.com/watch?v=xCn6ifDmlk8)
 - [Become a VS Code SuperHero Today - Trailer 2.0](https://www.youtube.com/watch?v=STZgSUtu004)
-- [Go from Visual Studio Code Noob to Pro! Become a VS Code SuperHero Today!](https://www.youtube.com/watch?v=4d_tbl3KqMM)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
