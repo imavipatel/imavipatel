@@ -68,7 +68,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [FREE Link-in-Bio Generator that Twitter Cannot Ban](https://www.youtube.com/watch?v=bR2tbXuzjcM)
+- [Maximize Your Online Presence using this Link-in-Bio Generator that Twitter Cannot Ban](https://www.youtube.com/watch?v=bR2tbXuzjcM)
 - [Best VS Code Extension for REST API - No More Postman](https://www.youtube.com/watch?v=e0bw0G19oFc)
 - [VS Code: How to Select Huge Divs Easily!](https://www.youtube.com/watch?v=9GCpUR9X6uc)
 <!-- YOUTUBE:END -->
