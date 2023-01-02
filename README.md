@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Best VS Code Extension for Local Development](https://www.youtube.com/watch?v=taN8XGQXxIM)
 - [Best VS Code Extension EVER!! 🔥🔥🔥](https://www.youtube.com/watch?v=9Ih0OHQ_3B8)
 - [Best VS Code Extension for JavaScript Console Logging](https://www.youtube.com/watch?v=tLZnV1YO45g)
-- [Web Development 101: A Beginner&#39;s Guide to Launching a Successful Career in 2023](https://www.youtube.com/watch?v=8aosxBJQdVc)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
