@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Visual IDE for React?!? The Future of Web Development](https://www.youtube.com/watch?v=cKfevf-iIHA)
 - [Best VS Code Extension for Local Development](https://www.youtube.com/watch?v=taN8XGQXxIM)
 - [Best VS Code Extension EVER!! 🔥🔥🔥](https://www.youtube.com/watch?v=9Ih0OHQ_3B8)
-- [Best VS Code Extension for JavaScript Console Logging](https://www.youtube.com/watch?v=tLZnV1YO45g)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
