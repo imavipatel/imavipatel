@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Best VS Code Time Saver!! 🔥🔥](https://www.youtube.com/watch?v=z23VL9cvMts)
 - [Best VS Code Extension for Tailwind CSS](https://www.youtube.com/watch?v=-spaQm7M-bI)
 - [VS Code Snippets are soooo POWERFULL](https://www.youtube.com/watch?v=2PYVNECKzQ4)
-- [A Visual IDE for React?!? The Future of Web Development](https://www.youtube.com/watch?v=cKfevf-iIHA)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
