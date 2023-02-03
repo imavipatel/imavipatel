@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pimp my Cursor - VS Code Style](https://www.youtube.com/watch?v=5oUUDvwiI-o)
 - [🔥 Extension! Easily Identify Multiple VS Code Windows](https://www.youtube.com/watch?v=DJbLil03_vs)
 - [🔥 Best VS Code Feature! Never Lose Your Place!](https://www.youtube.com/watch?v=NsfQaqAvKvo)
-- [Top 10 VS Code Themes 2023](https://www.youtube.com/watch?v=uIudZvpYIaM)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
