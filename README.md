@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔥 VS Code Database Management Extension](https://www.youtube.com/watch?v=Gz8TBhcf3dk)
 - [Open VS Code from Finder in macOS](https://www.youtube.com/watch?v=UY_WJBlQKj0)
 - [Pimp my Font - VS Code Style](https://www.youtube.com/watch?v=3S6Fot3oQ1g)
-- [🔥 Best Shortcut You Didn’t Know!!](https://www.youtube.com/watch?v=oSLDZGUQN2A)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
