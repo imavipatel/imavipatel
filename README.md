@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Oh No Vim in VS Code 🤯](https://www.youtube.com/watch?v=QCbBBuN7P_k)
 - [🔥 Best VS Code Feature! Never Lose Your Code!](https://www.youtube.com/watch?v=MwssRihPgJg)
 - [Open VS Code from Windows 11 New Right-Click Context Menu](https://www.youtube.com/watch?v=yzsb_il7aPw)
-- [🔥 VS Code: Edit Like A Pro](https://www.youtube.com/watch?v=2oXXk9aHKAk)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
