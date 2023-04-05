@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Never Go To Settings Again in VS Code!!](https://www.youtube.com/watch?v=q_oExJyObUw)
 - [🔥 Best VS Code Extension for Writers &amp; Speakers](https://www.youtube.com/watch?v=2R20LH1uG2E)
 - [Clean Up File Tree in VS Code](https://www.youtube.com/watch?v=fHAiCCXqV7Y)
-- [Oh No Vim in VS Code 🤯](https://www.youtube.com/watch?v=QCbBBuN7P_k)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
