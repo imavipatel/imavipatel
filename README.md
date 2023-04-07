@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Keep Your Packages Up-To-Date with this VS Code Extension](https://www.youtube.com/watch?v=FIHFLGEPolg)
 - [Fireship in 100 Seconds](https://www.youtube.com/watch?v=cYoY_WbqNSw)
 - [Never Go To Settings Again in VS Code!!](https://www.youtube.com/watch?v=q_oExJyObUw)
-- [🔥 Best VS Code Extension for Writers &amp; Speakers](https://www.youtube.com/watch?v=2R20LH1uG2E)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
