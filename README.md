@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Custom Icons in VS Code](https://www.youtube.com/watch?v=srGCblsKmDs)
 - [Keep Your Packages Up-To-Date with this VS Code Extension](https://www.youtube.com/watch?v=FIHFLGEPolg)
 - [Fireship in 100 Seconds](https://www.youtube.com/watch?v=cYoY_WbqNSw)
-- [Never Go To Settings Again in VS Code!!](https://www.youtube.com/watch?v=q_oExJyObUw)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
