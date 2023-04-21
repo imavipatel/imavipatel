@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VueJS Live Promo - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
 - [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
 - [Custom Icons in VS Code](https://www.youtube.com/watch?v=srGCblsKmDs)
-- [Keep Your Packages Up-To-Date with this VS Code Extension](https://www.youtube.com/watch?v=FIHFLGEPolg)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
