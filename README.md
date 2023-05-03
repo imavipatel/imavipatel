@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Evan You -  VueJSLive talk, the future of JavaScript, AI in tech](https://www.youtube.com/watch?v=TwjUuivIrPI)
 - [Don&#39;t Miss VueJS Live - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
 - [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
-- [Custom Icons in VS Code](https://www.youtube.com/watch?v=srGCblsKmDs)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
