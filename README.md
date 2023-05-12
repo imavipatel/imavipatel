@@ -69,8 +69,8 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <!-- YOUTUBE:START -->
 - [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
-- [🔴 Vue.js Live 2023 | The Biggest Vue.js Conference In The Cloud | GitNation](https://www.youtube.com/watch?v=7LjxNSdv0rw)
 - [Don&#39;t Miss VueJS Live - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
+- [🛑 Stop Creating Folder Structures the Hard Way in VS Code!](https://www.youtube.com/watch?v=_XbEX5kuATY)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
