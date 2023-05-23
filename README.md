@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!](https://www.youtube.com/watch?v=oH_-6TyxVhI)
 - [TypeScript vs JSDoc: A Shift in the Development Landscape](https://www.youtube.com/watch?v=JTYhDiJiiFI)
 - [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
-- [Don&#39;t Miss VueJS Live - Register Now!](https://www.youtube.com/watch?v=zTCpVNRMpEw)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
