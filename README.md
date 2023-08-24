@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Shadcn/UI Without Installation: Radix UI &amp; Tailwind CSS Combined! #shadcn #ui](https://www.youtube.com/watch?v=N4YiL2cHNLc)
 - [Shadcn/ui Unveiled: Copy, Paste, and Build with React Components!  #shadcn #ui](https://www.youtube.com/watch?v=YP4ynIwMWrs)
 - [The Best UI Components that EVERYONE is Using!](https://www.youtube.com/watch?v=DTGRIaAJYIo)
-- [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
