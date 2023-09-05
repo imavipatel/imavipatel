@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astro Setup with shadcn/ui: Quick Guide to Reusable Components! #shadcn #ui](https://www.youtube.com/watch?v=TxERoQSEfIk)
 - [Dark Mode &amp; Themes in shadcn/ui: Style Your App with Ease! #shadcn #ui](https://www.youtube.com/watch?v=GRdAcBOLOA4)
 - [Why Shadcn Over Radix? Customizable Components Made Easy! #shadcn #ui](https://www.youtube.com/watch?v=8bhHHbopE30)
-- [Shadcn/UI Without Installation: Radix UI &amp; Tailwind CSS Combined! #shadcn #ui](https://www.youtube.com/watch?v=N4YiL2cHNLc)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
