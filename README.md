@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Get Started with shadcn/ui in Gatsby: A Beginner&#39;s Tutorial!](https://www.youtube.com/watch?v=1iSYpeI4mVc)
 - [Vite Setup with shadcn/ui: Step-by-Step Guide to Easy Integration! #shadcn #ui](https://www.youtube.com/watch?v=PKbDGN2nxFc)
 - [Fixing shadcn/ui &amp; Tailwind Config Issue: A Simple Solution! #shadcn #ui](https://www.youtube.com/watch?v=wVfu7Uh7fM8)
-- [Astro Setup with shadcn/ui: Quick Guide to Reusable Components! #shadcn #ui](https://www.youtube.com/watch?v=TxERoQSEfIk)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
