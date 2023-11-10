@@ -68,7 +68,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [A Day in the Life of a Software Development Team](https://www.youtube.com/watch?v=DZV33RjeXW0)
+- [Share Your Dev Projects: No Setup, Just Clicks!](https://www.youtube.com/watch?v=DZV33RjeXW0)
 - [Announcing React Day Berlin 2023!!](https://www.youtube.com/watch?v=EwMUadklI4s)
 - [How to Use shadcn/ui: Installing a Button Made Simple! #shadcn #ui](https://www.youtube.com/watch?v=VeAT5tPc1iQ)
 <!-- YOUTUBE:END -->
