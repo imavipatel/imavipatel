@@ -69,7 +69,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <!-- YOUTUBE:START -->
 - [React&#39;s Future: Tejas Kumar on Server Components](https://www.youtube.com/watch?v=zn-nFWDxyiw)
-- [BEST Collaboration Workflow for Web Development](https://www.youtube.com/watch?v=DZV33RjeXW0)
+- [Collaboration is HARD! You Need this Web Development Workflow](https://www.youtube.com/watch?v=DZV33RjeXW0)
 - [Announcing React Day Berlin 2023!!](https://www.youtube.com/watch?v=EwMUadklI4s)
 <!-- YOUTUBE:END -->
 
