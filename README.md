@@ -68,7 +68,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I&#39;ll NEVER google again!](https://www.youtube.com/watch?v=bvCYpVqkn54)
+- [A New Programming Paradigm Just Dropped, and It&#39;s Not What You Expect...](https://www.youtube.com/watch?v=bvCYpVqkn54)
 - [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
 - [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
 <!-- YOUTUBE:END -->
