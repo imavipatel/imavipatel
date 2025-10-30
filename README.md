@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imavipatel&label=Profile%20views&color=0e75b6&style=flat" alt="imavipatel" /> </p>
 
--  🔭 I’m currently developing a mobile application in [React Native](https://reactnative.dev/) independently.
+-  🔭 Currently developing a high-performance Merchant Banking Application for AU Small Finance Bank using React Native, in collaboration with cross-functional teams.
+-  
+-  🌱 Currently enhancing my skills in data structures and algorithms while deepening my expertise in **Javascript**, **Python** and **React Native**.
 
--  🌱 I’m currently learning and growing my skillset in data structures and algorithms and trying to improve my expertise in **Python** and **React Native**
-
--  🤝 I’m looking to collaborate on **Javascript**, **React Native** or **Python** based projects.
+-  🤝 I’m looking to collaborate on exciting **Javascript**, **React Native** or **Python** based projects.
 
 -  💬 Feel free to ask me anything. I would love to **Help** you.
 
--  📫 Join the [React Native Meetup](https://t.me/ReactNativeDelhiNcrMeetup) group for discussing about **React Native**. This group is all about **React Native** < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s /> who loves to help other **Fellow Developers**.
-
--  ⚡ Fun fact => In my free time I will be coding, watching movies or travelling.
+-  ⚡ Fun fact => Beyond coding, I enjoy photography, videography, and editing, along with biking and traveling to fuel creativity and inspiration.
 
 ### 🛠 &nbsp;Tech Stack
 
