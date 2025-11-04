@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imavipatel&label=Profile%20views&color=0e75b6&style=flat" alt="imavipatel" /> </p>
 
--  🔭 Currently developing a high-performance Merchant Banking Application for AU Small Finance Bank using React Native, in collaboration with cross-functional teams.
+-  🔭 Building a next-gen Merchant Banking Application for AU Small Finance Bank using React Native, focused on performance, scalability, and exceptional user experience through close teamwork with designers and backend engineers.
 -  🌱 Currently enhancing my skills in data structures and algorithms while deepening my expertise in **Javascript**, **Python** and **React Native**.
 
 -  🤝 I’m looking to collaborate on exciting **Javascript**, **React Native** or **Python** based projects.
