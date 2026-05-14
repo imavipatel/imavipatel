@@ -65,7 +65,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Claude Code, Codex, and Gemini in ONE app](https://www.youtube.com/watch?v=sZDjE-9esEg)
+- [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
 - [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
 - [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
 <!-- YOUTUBE:END -->
