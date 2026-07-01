@@ -20,14 +20,16 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 [![Python](https://img.shields.io/badge/-Python-05122A?&logo=python)](https://www.python.org/)&nbsp;
 [![Java](https://img.shields.io/badge/-Java-05122A?&logo=Java&logoColor=007396)](https://www.java.com/en/)&nbsp;
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=ddc508)](https://www.javascript.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=ddc508)](https://www.javascript.com/)&nbsp;
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript&logoColor=3178C6)](https://www.typescriptlang.org/)
 
 #### 🌐 Frontend <br />
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://react.dev/)&nbsp;
 [![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)](https://reactnative.dev/)&nbsp;
 [![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo&logoColor=FFF)](https://expo.io/)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript&logoColor=3178C6)](https://www.typescriptlang.org/)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
