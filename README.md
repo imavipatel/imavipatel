@@ -77,7 +77,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 <p><a href="https://www.buymeacoffee.com/imavipatel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="imavipatel" /></a></p>
 
 <details>
-<summary>📊 Github Stats</summary>
+<!-- <summary>📊 Github Stats</summary> -->
 
 <!-- <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imavipatel&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=7&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" alt="imavipatel" /></p>
