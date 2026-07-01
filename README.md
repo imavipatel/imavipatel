@@ -26,6 +26,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 #### 🌐 Frontend <br />
 
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://react.dev/)&nbsp;
+[![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)](https://nextjs.org/)&nbsp;
 [![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)](https://reactnative.dev/)&nbsp;
 [![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo&logoColor=FFF)](https://expo.io/)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
