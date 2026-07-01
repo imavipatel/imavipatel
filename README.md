@@ -86,7 +86,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imavipatel&theme=highcontrast" alt="imavipatel" /></p> -->
 
-</details>
+<!-- </details> -->
 
 <div align="center">
 
