@@ -10,7 +10,7 @@
 
 -  💬 Feel free to ask me anything. I would love to **Help** you.
 
--  ⚡ Fun fact => Beyond coding, I enjoy photography, videography, and editing, along with biking and traveling to fuel creativity and inspiration.
+-  ⚡ Fun fact: Beyond coding, I enjoy reading books, capturing moments through photography and videography, editing creative content, and exploring new places on my bike to fuel creativity and inspiration.
 
 ### 🛠 &nbsp;Tech Stack
 
