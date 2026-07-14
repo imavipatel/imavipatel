@@ -108,6 +108,7 @@ Technologies that I've been learning and I've picked up along with my programmin
 <a href="https://open.spotify.com/user/31i6pngdavxid3wuhbxjgqyl6dke?si=rttYFsUaRkaC0MRGpNECaQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/imavipatel" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://twitter.com/imavipatel"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white"></a>
+<a href="https://discord.com/users/imavipatel"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"></a>
 <a href="https://medium.com/@imavipatel"><img alt="Blog" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white"></a>
 <a href="https://hackerrank.com/imavipatel" alt="HackerRank">
 <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
