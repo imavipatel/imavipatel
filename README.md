@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Is AWS re:Invent Worth It? #aws #reinvent #tech](https://www.youtube.com/shorts/BYgvVIH8-F4)
 - [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
 - [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
-- [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
