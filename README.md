@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cold Starts Kill AI Apps](https://www.youtube.com/shorts/H6RnDFyS-z4)
 - [Is AWS re:Invent Worth It? #aws #reinvent #tech](https://www.youtube.com/shorts/BYgvVIH8-F4)
 - [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
-- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
