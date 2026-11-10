@@ -68,9 +68,9 @@ Technologies that I've been learning and I've picked up along with my programmin
 # 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gemini 4 Carbon Built This Voice Assistant in 4.5 Hours &lpar;On Its Own&rpar;](https://www.youtube.com/watch?v=4onc5T6VHSM)
 - [I Tested Gemini 3.8 Flash Lite TTS &lpar;It&#39;s Actually Realistic!&rpar;](https://www.youtube.com/watch?v=PmbLRNAlQKo)
 - [Cold Starts Kill AI Apps](https://www.youtube.com/shorts/H6RnDFyS-z4)
-- [Is AWS re:Invent Worth It? #aws #reinvent #tech](https://www.youtube.com/shorts/BYgvVIH8-F4)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Support:</h3>
